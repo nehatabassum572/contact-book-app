@@ -33,7 +33,8 @@ contact-book-app/
 
 ├── `contacts.py`    
 ├── `main.py`        
-├── `database.py`   
+├── `database.py`  
+├── `model.py`
 └── `requirements.txt`      
 
 ## Credits
