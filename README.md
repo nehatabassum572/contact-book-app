@@ -31,11 +31,11 @@ A desktop contact management application built with PyQt5 and SQLite.
 ## Project Structure
 contact-book-app/
 
-├── `contacts.py`    
-├── `main.py`        
-├── `database.py`  
-├── `model.py`
-└── `requirements.txt`      
+├── contacts.py     
+├── main.py         
+├── database.py    
+├── model.py       
+└── requirements.txt        
 
 ## Credits
 This project was built following the excellent tutorial by __Leodanis Pozo Ramos__ from Real Python. The tutorial provided comprehensive guidance on building desktop applications with PyQt5 and database integration.
